@@ -7,7 +7,7 @@ metadata:
 spec:
   project: default
   source:
-    path: ./components/codegem-0514/overlays/development
+    path: ./components/codegem-0514/overlays
     repoURL: https://github.com/stephanie-cy/codegem-0514.git
     targetRevision: main
   destination:
