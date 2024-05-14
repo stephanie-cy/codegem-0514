@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: codegem-0514-repository
+spec:
+  url: https://github.com/stephanie-cy/codegem-0514
